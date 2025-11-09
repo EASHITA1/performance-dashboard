@@ -7,17 +7,17 @@ Designed to handle **10,000+ data points** while maintaining **60 FPS** renderin
 
 ## ✨ Features
 
-- ⚡ **Real-Time Streaming** – Seamless live data updates powered by a simulated data stream  
-- 🎨 **Multiple Visualization Modes** – Switch between line, bar, scatter, and heatmap charts instantly  
-- 📊 **Aggregation Controls** – Filter by time range, performance category, and aggregation interval  
-- 🧠 **Optimized Rendering** – Canvas-based charting for ultra-low latency and steady frame rates  
-- 🔍 **Interactive Data Table** – Live table synced with the visualization in real time  
-- 🧩 **Component-Driven Design** – Modular architecture with reusable hooks and UI components  
-- 🛠️ **Built for Performance Analysis** – Ideal for dashboards, monitoring tools, or analytics systems  
+- **Real-Time Streaming** – Seamless live data updates powered by a simulated data stream  
+- **Multiple Visualization Modes** – Switch between line, bar, scatter, and heatmap charts instantly  
+- **Aggregation Controls** – Filter by time range, performance category, and aggregation interval  
+- **Optimized Rendering** – Canvas-based charting for ultra-low latency and steady frame rates  
+- **Interactive Data Table** – Live table synced with the visualization in real time  
+- **Component-Driven Design** – Modular architecture with reusable hooks and UI components  
+- **Built for Performance Analysis** – Ideal for dashboards, monitoring tools, or analytics systems  
 
 ---
 
-## 🧱 Tech Stack
+##Tech Stack
 
 | Layer | Technologies Used |
 |:--|:--|
