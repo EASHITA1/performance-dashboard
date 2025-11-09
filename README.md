@@ -1,11 +1,11 @@
-# 🚀 Real-Time Performance Dashboard
+#  Real-Time Performance Dashboard
 
 A high-performance, **real-time data visualization dashboard** built with **Next.js 14**, **TypeScript**, and **Canvas**.  
 Designed to handle **10,000+ data points** while maintaining **60 FPS** rendering and smooth user interaction.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Real-Time Streaming** – Seamless live data updates powered by a simulated data stream  
 - **Multiple Visualization Modes** – Switch between line, bar, scatter, and heatmap charts instantly  
@@ -17,7 +17,7 @@ Designed to handle **10,000+ data points** while maintaining **60 FPS** renderin
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 | Layer | Technologies Used |
 |:--|:--|
@@ -30,7 +30,7 @@ Designed to handle **10,000+ data points** while maintaining **60 FPS** renderin
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository and start the development server:
 
